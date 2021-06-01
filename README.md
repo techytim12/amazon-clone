@@ -1,4 +1,4 @@
-You could find the deployed version in: https://challenge-8517d.web.app/
+You could find the deployed version in: https://amazoneclone.tk/
 
 
 # Getting Started with Create React App
